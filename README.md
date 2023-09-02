@@ -1,6 +1,5 @@
 - 👋 Hi, I’m RITIK
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning PYTHON,C
-
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning C++
 
 
