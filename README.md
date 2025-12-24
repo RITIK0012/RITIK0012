@@ -14,12 +14,17 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RITIK0012&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITIK0012&layout=compact&theme=tokyonight" height="160"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=RITIK0012&show_icons=true&theme=radical&cache_seconds=86400" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RITIK0012&theme=tokyonight"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITIK0012&layout=compact&theme=radical&cache_seconds=86400" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RITIK0012&theme=radical&cache_seconds=86400" />
+</p>
 
 
 ---
