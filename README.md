@@ -13,10 +13,13 @@
 ---
 
 ### 📊 GitHub Stats
-![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RITIK0012&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RITIK0012&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RITIK0012&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITIK0012&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RITIK0012)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RITIK0012&theme=tokyonight"/>
+
 
 ---
