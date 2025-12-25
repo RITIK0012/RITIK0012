@@ -22,15 +22,12 @@ JavaScript   7 mins          ███████████░░░░░░
 
 ## 📊 GitHub Stats
 
-![Ritik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RITIK0012&show_icons=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RITIK0012&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITIK0012&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RITIK0012&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=RITIK0012)
-
-
-
-
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RITIK0012&theme=tokyonight"/>
+</p>
 ---
