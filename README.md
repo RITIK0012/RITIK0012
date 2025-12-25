@@ -25,19 +25,14 @@ JavaScript   7 mins          ██▓░░░░░░░░░░░░░░
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/RITIK0012">
-    <img src="https://raw.githubusercontent.com/RITIK0012/RITIK0012/main/.github/images/stats.svg" height="160"/>
-  </a>
-  <a href="https://github.com/RITIK0012">
-    <img src="https://raw.githubusercontent.com/RITIK0012/RITIK0012/main/.github/images/langs.svg" height="160"/>
-  </a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RITIK0012&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RITIK0012&layout=compact&theme=tokyonight&cache_seconds=1800" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RITIK0012/RITIK0012/main/.github/images/streak.svg"/>
+  <img src="https://streak-stats.demolab.com/?user=RITIK0012&theme=tokyonight&cache_seconds=1800"/>
 </p>
-
-
 ---
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RITIK0012" width="1" height="1"/>
 
 
