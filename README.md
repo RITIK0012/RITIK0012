@@ -10,10 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2025 - To: 24 December 2025
+From: 25 November 2025 - To: 25 December 2025
 
-CSS          9 mins          ██████████████░░░░░░░░░░░   55.71 %
-JavaScript   7 mins          ███████████░░░░░░░░░░░░░░   44.29 %
+Elixir       42 mins         ███████████████▓░░░░░░░░░   63.03 %
+CSS          9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+HTML+EEX     8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
+JavaScript   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
 ```
 
 <!--END_SECTION:waka-->
