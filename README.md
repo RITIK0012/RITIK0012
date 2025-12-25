@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2025 - To: 24 December 2025
+From: 24 November 2025 - To: 24 December 2025
 
 CSS          9 mins          ██████████████░░░░░░░░░░░   55.71 %
 JavaScript   7 mins          ███████████░░░░░░░░░░░░░░   44.29 %
