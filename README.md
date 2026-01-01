@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2025 - To: 31 December 2025
+From: 02 December 2025 - To: 01 January 2026
 
 Elixir       1 hr 9 mins     ██████████████████▒░░░░░░   73.61 %
 CSS          9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
