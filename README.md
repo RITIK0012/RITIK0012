@@ -10,12 +10,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 22 January 2026
+From: 24 December 2025 - To: 23 January 2026
 
-Elixir       1 hr 9 mins     ██████████████████▒░░░░░░   72.68 %
-CSS          10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-HTML+EEX     8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-JavaScript   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+Elixir     1 hr 9 mins     ██████████████████████▒░░   89.22 %
+HTML+EEX   8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
 ```
 
 <!--END_SECTION:waka-->
