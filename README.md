@@ -12,7 +12,7 @@
 ```txt
 From: 18 January 2026 - To: 17 February 2026
 
-Elixir   58 mins         █████████████████████████   100.00 %
+Elixir   58 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
