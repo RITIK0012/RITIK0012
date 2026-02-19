@@ -10,10 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2026 - To: 18 February 2026
+From: 20 January 2026 - To: 19 February 2026
 
-Elixir     2 hrs 1 min           ███████████████████████▓░   95.31 %
-HTML+EEX   5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Elixir       2 hrs 31 mins         ███████████████████▓░░░░░   78.98 %
+HTML+EEX     22 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+JavaScript   17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
 ```
 
 <!--END_SECTION:waka-->
