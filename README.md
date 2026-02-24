@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2026 - To: 23 February 2026
+From: 25 January 2026 - To: 24 February 2026
 
 Elixir       3 hrs 6 mins          ██████████████████▓░░░░░░   74.26 %
 HTML+EEX     43 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
