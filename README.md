@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2026 - To: 31 May 2026
+From: 02 May 2026 - To: 01 June 2026
 
 HTML+EEX   59 mins               ████████████████████████░   96.33 %
 Elixir     2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
